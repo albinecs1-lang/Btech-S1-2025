@@ -4,7 +4,7 @@
 import math as mt
 
 #power
-number = 1
+number = 10
 powering = mt.pow(number , number)
 
 #factorial
