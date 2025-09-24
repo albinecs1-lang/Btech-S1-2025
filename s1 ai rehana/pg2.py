@@ -1,3 +1,4 @@
 a=musaliar
 b=college
-print("a+""+b")
+print("a+" "+b")
+
