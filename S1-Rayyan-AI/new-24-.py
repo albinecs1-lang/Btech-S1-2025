@@ -11,6 +11,6 @@ powering = int(mt.pow(number , number))
 factorial = mt.factorial(number)
 
 #squre root
-squre_root = int(mt.sqrt(number))
+squre_root = mt.sqrt(number)
 
 print(f'the power at {number} is {powering} the factorial is {factorial} the squre root is {squre_root}')
