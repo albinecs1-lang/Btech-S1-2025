@@ -5,12 +5,12 @@ import math as mt
 
 #power
 number = 10
-powering = mt.pow(number , number)
+powering = int(mt.pow(number , number))
 
 #factorial
 factorial = mt.factorial(number)
 
 #squre root
-squre_root = mt.sqrt(number)
+squre_root = int(mt.sqrt(number))
 
 print(f'the power at {number} is {powering} the factorial is {factorial} the squre root is {squre_root}')
