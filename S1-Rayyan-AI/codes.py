@@ -24,10 +24,12 @@ else:
   print("no its not a palindrome")
 
 
+
 #5
 #slicing a word
 slised = "malayalam"
 print(slised[0:4])
+
 
 #6
 #reversing a string
