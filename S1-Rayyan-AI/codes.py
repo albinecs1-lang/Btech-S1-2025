@@ -17,12 +17,13 @@ print(len(c))
 string = "asddsa"
 rever = string[::-1]
 
-#slicing a word
-slised = "malayalam"
-print(slised[1:4]
-
 if rever == string:
   print("yes it is")
 else:
   print("not")
 
+
+
+#slicing a word
+slised = "malayalam"
+print(slised[1:4]
