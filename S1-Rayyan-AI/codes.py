@@ -54,3 +54,9 @@ print(f'the least is {min(given_list_one)} and maximum in {max(given_list_one)}'
 list_given = [1,2,3,4,5,6]
 list_given.remove(max(list_given))
 print(max(list_given))
+
+
+#10
+#reverce a list
+ls = [1,2,3,4,5,6]
+print(ls.reverse()) 
