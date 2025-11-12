@@ -68,7 +68,7 @@ print(rve)
 count = 0
 voval = "programing"
 vov = ['a','e','i','o','u']
-for i in voval:
+for i in voval.lower():
   if i in vov:
     count+=1
 
