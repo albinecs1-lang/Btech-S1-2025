@@ -1,19 +1,20 @@
+#1
 #to check the length of the string
 words = "abcedefgh"
 print(len(words))
 
-
+#2
 #replacing text
 name = "gf fjgdfkjg ksdgjfdjg"
 print(name.replace("gf","replaced"))
 
-
+#3
 #to count num of words in a string
 string_value = "hellow who how why by"
 c = string_value.split()
 print(len(c))
 
-
+#4
 #to reverce a num
 string = "asddsa"
 rever = string[::-1]
@@ -23,12 +24,12 @@ else:
   print("not")
 
 
-
+#5
 #slicing a word
 slised = "malayalam"
 print(slised[0:4])
 
-
+#6
 #reversing a string
 reverserr = "stringgg"
 print(reverserr[::-1])
