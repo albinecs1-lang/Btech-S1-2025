@@ -26,4 +26,4 @@ else:
 
 #slicing a word
 slised = "malayalam"
-print(slised[1:4]
+print(slised[0:4])
