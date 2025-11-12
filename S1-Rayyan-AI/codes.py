@@ -14,9 +14,10 @@ c = string_value.split()
 print(len(c))
 
 string = "asddsa"
-for i in range(len(string)):
-  if string[i] != string[-i+1]:
-    print("not palindrome")
-    break
-  else:
-    print("its a palindrome")
+rever = string[::-1]
+
+if rever == string:
+  print("yes it is")
+else:
+  print("not")
+
