@@ -37,6 +37,7 @@ reverserr = "stringgg"
 print(reverserr[::-1])
 
 
+#7
 #sum of all elements in a list
 given_list = [1,2,3,4,5,6]
 print(sum(given_list))
