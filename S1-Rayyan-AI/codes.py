@@ -59,5 +59,5 @@ print(max(list_given))
 #10
 #reverce a list
 ls = [1,2,3,4,5,6]
-rve = ls.reverse()
+rve = reversed(ls)
 print(rve)
