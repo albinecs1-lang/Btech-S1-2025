@@ -43,6 +43,7 @@ given_list = [1,2,3,4,5,6]
 print(sum(given_list))
 
 
+#8
 #largest and smallest elements in a list
 given_list_one = [1,2,3,4,5,6]
 print(f'the least is {min(given_list_one)} and maximum in {max(given_list_one)}')
