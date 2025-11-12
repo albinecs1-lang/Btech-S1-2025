@@ -1,2 +1,2 @@
-
-print("welcome")
+string ('django')
+print(len(word))
