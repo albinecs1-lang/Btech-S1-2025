@@ -35,3 +35,8 @@ print(slised[0:4])
 #reversing a string
 reverserr = "stringgg"
 print(reverserr[::-1])
+
+
+#sum of all elements in a list
+given-list = [1,2,3,4,5,6]
+print(sum(given-list))
