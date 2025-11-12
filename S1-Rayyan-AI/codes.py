@@ -15,13 +15,13 @@ c = string_value.split()
 print(len(c))
 
 #4
-#to reverce a num
+#to check if its a palindrome
 string = "asddsa"
 rever = string[::-1]
 if rever == string:
-  print("yes it is")
+  print("yes it isa palindrome")
 else:
-  print("not")
+  print("no its not a palindrome")
 
 
 #5
