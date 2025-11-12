@@ -62,9 +62,11 @@ ls = [1,2,3,4,5,6]
 rve = list(reversed(ls))
 print(rve)
 
+#11
+#to check how much voval in 
 count = 0
 voval = "programing"
 vov = ['a','e','i','o','u']
-for i in range(voval):
+for i in voval:
   if i in vov:
     count+=1
