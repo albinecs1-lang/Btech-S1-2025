@@ -23,7 +23,10 @@ else:
   print("not")
 
 
-
 #slicing a word
 slised = "malayalam"
 print(slised[0:4])
+
+#reversing a string
+reverserr = "stringgg"
+print(reverserr[:-1])
