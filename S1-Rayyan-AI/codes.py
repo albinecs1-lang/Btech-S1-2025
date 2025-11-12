@@ -62,6 +62,7 @@ ls = [1,2,3,4,5,6]
 rve = list(reversed(ls))
 print(rve)
 
+
 #11
 #to check how much voval in 
 count = 0
