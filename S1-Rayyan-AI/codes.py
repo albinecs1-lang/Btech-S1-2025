@@ -47,3 +47,9 @@ print(sum(given_list))
 #largest and smallest elements in a list
 given_list_one = [1,2,3,4,5,6]
 print(f'the least is {min(given_list_one)} and maximum in {max(given_list_one)}')
+
+
+#9 to find second lagest 
+list_given = [1,2,3,4,5,6]
+max = list_given.remove(max(list_given))
+print(max(list_given))
