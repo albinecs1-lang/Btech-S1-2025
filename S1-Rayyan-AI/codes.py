@@ -70,3 +70,5 @@ vov = ['a','e','i','o','u']
 for i in voval:
   if i in vov:
     count+=1
+
+print(count)
