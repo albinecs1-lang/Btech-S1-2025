@@ -29,4 +29,4 @@ print(slised[0:4])
 
 #reversing a string
 reverserr = "stringgg"
-print(reverserr[:-1])
+print(reverserr[::-1])
