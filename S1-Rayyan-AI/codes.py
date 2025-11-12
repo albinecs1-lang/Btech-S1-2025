@@ -12,3 +12,11 @@ print(name.replace("gf","replaced"))
 string_value = "hellow who how why by"
 c = string_value.split()
 print(len(c))
+
+string = "asddsa"
+for i in range(len(string)):
+  if string[i] != string[-i+1]:
+    print("not palindrome")
+    break
+  else:
+    print("its a palindrome")
